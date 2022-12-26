@@ -130,7 +130,7 @@ namespace WordleSolver
                 wordsToRemove.Clear();
             }
 
-            //Text depending on if program correctly guessed word
+            //End text depending on if program correctly guessed word
             if (wonGame)
             {
                 Console.WriteLine("I guessed it!");
